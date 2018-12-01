@@ -1,0 +1,12 @@
+IV_LENGTH = 16
+KEY_LENGTH = 32
+RSA_KEY_LENGTH = 2048
+RSA_PUBLIC_EXPONENT = 65537
+BLOCK_SIZE = 128
+MESSAGE = b"a secret message"
+ENC_EXT = ".enc"
+JSON_EXT = ".json"
+RSA_PUBLIC_KEYPATH = "/Users/sovathana/Documents/CECS 378/test/public_key.pem"
+RSA_PRIVATE_KEYPATH = "/Users/sovathana/Documents/CECS 378/test/private_key.pem"
+IMG_PATH = "/Users/sovathana/Documents/CECS 378/test/test.jpg"
+DECR_IMG_PATH = "/Users/sovathana/Documents/CECS 378/test/test decrypted.jpg"
